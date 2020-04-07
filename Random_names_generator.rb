@@ -4,7 +4,7 @@ adjectives = ["minty", "yummy", "fluffy", "filthy", "jumbo", "fluffy", "embarass
 
 nouns = ["starship", "advice", "rattlesnake", "pancake", "orange", "regret", "insurance", "ukulele", "carol", "noun"]
 
-while 1 == 1
+loop do
   puts [adjectives.sample, nouns.sample, rand(100)].join("-")
 
   gets
