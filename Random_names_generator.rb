@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-adjectives = ["lemon_flavored", "minty", "yummy", "fluffy", "filthy", "jumbo", "big_boned", "fluffy", "embarassed", "confused", "grumpy"]
+adjectives = ["minty", "yummy", "fluffy", "filthy", "jumbo", "fluffy", "embarassed", "confused", "grumpy"]
 
 nouns = ["starship", "advice", "rattlesnake", "pancake", "orange", "regret", "insurance", "ukulele", "carol", "noun"]
 
