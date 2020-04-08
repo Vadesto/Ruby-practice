@@ -11,8 +11,7 @@ count = Hash.new(0)
 letters.each { |a| count[a] += 1 }
 
 count = count.sort_by { |a, i| i }
-count.reverse!
 
-count.each do |a, i|
+count.reverse_each do |a, i|
   puts "#{a}: #{i}"
 end
