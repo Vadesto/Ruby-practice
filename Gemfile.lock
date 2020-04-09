@@ -5,6 +5,7 @@ GEM
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
     jaro_winkler (1.5.4)
+    minecraft-query (1.0.0)
     multipart-post (2.1.1)
     parallel (1.19.1)
     parser (2.7.1.0)
@@ -29,6 +30,7 @@ PLATFORMS
 
 DEPENDENCIES
   faraday
+  minecraft-query
   rubocop
   rubocop-performance
 
